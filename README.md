@@ -1,3 +1,6 @@
+`Since all the work si being done in my spare time and for fun, all implementations are done in the .ipynb in the root of the repo (I know it is untidy)`
+
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" alt="logo"></img>
 </div>
